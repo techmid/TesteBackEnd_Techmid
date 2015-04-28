@@ -6,7 +6,7 @@ Queremos saber se você realmente tem o que precisamos, siga as instruções aba
 <strong>Desenvolva um sistema de controle de estoque de produtos</strong>
 
 <ul>
-  <li>Página de acesso (Normal + Facebook)</li>
+  <li>Página de acesso (Normal & Facebook)</li>
   <li>Autenticação do usuário</li>
   <li>Diferentes perfis de usuário (Administrador/Consultor/Cliente)</li>
   <li>Cadastro de produtos com upload de foto incluído</li>
@@ -37,6 +37,6 @@ Queremos saber se você realmente tem o que precisamos, siga as instruções aba
   <li>Uso de classes prontas para geração de thumbnail.</li>
 </ul>
 
-Lembre-se, você pode criar a estrutura do zero, com ou sem o Composer.<br />
+Lembre-se, você pode criar a estrutura do zero, com ou sem o Composer, não esquecendo de nos surpreender!<br />
 <strong>Faça um pull request até a data estipulada.</strong><br />
 Boa sorte!
