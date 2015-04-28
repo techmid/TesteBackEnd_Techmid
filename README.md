@@ -6,33 +6,37 @@ Queremos saber se você realmente tem o que precisamos, siga as instruções aba
 <strong>Desenvolva um sistema de controle de estoque de produtos</strong>
 
 <ul>
-  <li>Cadastro do usuário (Pode usar o Facebook).</li>
-  <li>Cadastro do usuário (Pode usar o Facebook).</li>
-  <li>Cadastro do usuário (Pode usar o Facebook).</li>
-  <li>Cadastro do usuário (Pode usar o Facebook).</li><li>Cadastro do usuário (Pode usar o Facebook).</li>
-  Autenticação do usuário (Pode usar o Facebook).
-  Upload de fotos (Resize).
-  Perfil do usuário.
-  Página da foto.
-  Requisitos obrigatórios:
+  <li>Página de acesso (Normal + Facebook)</li>
+  <li>Autenticação do usuário</li>
+  <li>Diferentes perfis de usuário (Administrador/Consultor/Cliente)</li>
+  <li>Cadastro de produtos com upload de foto incluído</li>
+  <li>Controle de estoque de produtos</li>
+</ul>
+  
+<h4>Requisitos obrigatórios:</h4>
+
+<ul>
+  <li>PHP5</li>
+  <li>Orientado a objeto (OO)</li>
+  <li>Não utilizar frameworks prontos (CakePHP, Zend, entre outros)</li>
+  <li>Teste Unitário (PHP Unit)</li>
+  <li>Fazer uso de uma das normas PSR. (PSR-0, PSR1 ou PSR2)</li>
+  <li>PDO</li>
 </ul>
 
-PHP 5.
-Orientado a Objeto (OO).
-Não utilizar frameworks prontos.
-Requisitos Opcional
+<h4>Requisitos Opcionais</h4>
 
-Utilizar OO 100%, utilizar todos os recursos disponiveis. (Interface, SPL, Namespaces e etcs).
-Teste unitário PHPUnit.
-Fazer uso de uma das normas PSR. (PSR-0, PSR1 ou PSR2).
-PDO
-Utilizar alguns Design Patterns
-Permitimos:
+<ul>
+  <li>Utilizar OO 100%, utilizar todos os recursos disponiveis. (Interface, SPL, Namespaces e etcs)</li>
+  <li>Utilizar alguns Design Patterns</li>
+</ul>
 
-Uso de classes prontas para geração de thumbnail e resizer.
-Lembre-se, você pode criar a estrutura do zero, com ou sem o Composer ;)
+<h4>Permitimos:</h4>
 
-Se você ainda não passou pela fase de entrevista, cadastre seu currículo aqui!
+<ul>
+  <li>Uso de classes prontas para geração de thumbnail.</li>
+</ul>
 
-Faça um pull request até a data estipulada.
-Estamos torcendo por você!
+Lembre-se, você pode criar a estrutura do zero, com ou sem o Composer.<br />
+<strong>Faça um pull request até a data estipulada.</strong><br />
+Boa sorte!
