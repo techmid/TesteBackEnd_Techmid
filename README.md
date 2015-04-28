@@ -19,7 +19,6 @@ Queremos saber se você realmente tem o que precisamos, siga as instruções aba
   <li>PHP5</li>
   <li>Orientado a objeto (OO)</li>
   <li>Não utilizar frameworks prontos (CakePHP, Zend, entre outros)</li>
-  <li>Teste Unitário (PHP Unit)</li>
   <li>Fazer uso de uma das normas PSR. (PSR-0, PSR1 ou PSR2)</li>
   <li>PDO</li>
 </ul>
@@ -29,6 +28,7 @@ Queremos saber se você realmente tem o que precisamos, siga as instruções aba
 <ul>
   <li>Utilizar OO 100%, utilizar todos os recursos disponiveis. (Interface, SPL, Namespaces e etcs)</li>
   <li>Utilizar alguns Design Patterns</li>
+  <li>Teste Unitário (PHP Unit)</li>
 </ul>
 
 <h4>Permitimos:</h4>
