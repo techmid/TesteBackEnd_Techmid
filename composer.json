@@ -1,0 +1,21 @@
+{
+	"name": "techmid/TesteBackEnd_Techmid",
+	"description": "TesteBackEnd_Techmid",
+	"version": "0.0.1",
+	"authors": [
+		{
+			"name": "Marcelo Augusto",
+			"email": "marcelo.augusto@techmid.com.br",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"facebook/php-sdk-v4": "4.0.*",
+		"phpunit/phpunit": "4.6.*@dev"
+	},
+	"autoload": {
+		"classmap": [
+			"app/"
+		]
+	}
+}
